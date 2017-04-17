@@ -1,4 +1,5 @@
-# Disk Cleaning Utility 
+Disk Cleaning Utility 
+=====================
 Runs file system check on SD card by booting a Linux virtual machine
 
 ## Installation
