@@ -1,0 +1,6 @@
+.idea/
+target/
+.vagrant/
+sd-card.vmdk
+*.log
+*.iml
